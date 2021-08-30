@@ -1,0 +1,895 @@
+Month/Year Ship,Sales,Category,Region
+"February, 2017",29,Technology,South
+"February, 2015",30,Technology,South
+"January, 2014",31,Technology,Central
+"August, 2015",46,Furniture,South
+"February, 2014",51,Office Supplies,South
+"January, 2017",63,Furniture,South
+"February, 2014",69,Office Supplies,East
+"January, 2018",106,Technology,East
+"January, 2014",109,Office Supplies,East
+"January, 2018",112,Office Supplies,South
+"February, 2014",115,Technology,East
+"February, 2015",123,Furniture,Central
+"January, 2014",124,Technology,East
+"January, 2018",172,Office Supplies,East
+"April, 2014",189,Technology,East
+"January, 2014",199,Furniture,East
+"January, 2018",203,Furniture,Central
+"January, 2015",219,Office Supplies,Central
+"February, 2016",220,Technology,East
+"May, 2014",227,Technology,Central
+"February, 2014",240,Technology,West
+"April, 2015",257,Office Supplies,South
+"October, 2014",295,Furniture,Central
+"January, 2018",302,Technology,West
+"January, 2018",323,Furniture,East
+"July, 2015",354,Technology,South
+"September, 2014",362,Furniture,South
+"April, 2015",382,Technology,East
+"January, 2018",408,Technology,Overall
+"February, 2014",439,Furniture,Central
+"March, 2015",448,Technology,South
+"July, 2014",449,Furniture,South
+"December, 2014",450,Technology,South
+"January, 2016",451,Technology,Central
+"July, 2014",460,Office Supplies,South
+"October, 2014",462,Technology,East
+"November, 2015",472,Technology,South
+"January, 2016",484,Office Supplies,Central
+"January, 2015",498,Technology,South
+"February, 2014",503,Office Supplies,Central
+"January, 2014",506,Furniture,Central
+"March, 2017",506,Technology,South
+"February, 2014",531,Technology,Central
+"January, 2014",535,Furniture,West
+"October, 2016",538,Furniture,South
+"January, 2015",539,Office Supplies,South
+"May, 2016",551,Office Supplies,West
+"January, 2018",571,Furniture,West
+"March, 2014",575,Technology,Central
+"February, 2015",575,Office Supplies,South
+"July, 2017",584,Technology,South
+"August, 2014",591,Technology,East
+"February, 2015",604,Furniture,West
+"July, 2017",627,Office Supplies,South
+"March, 2016",644,Furniture,South
+"March, 2014",647,Technology,East
+"October, 2015",649,Office Supplies,Central
+"September, 2015",658,Office Supplies,Central
+"January, 2018",697,Office Supplies,Central
+"August, 2017",699,Furniture,Central
+"February, 2014",712,Office Supplies,West
+"March, 2017",721,Furniture,South
+"February, 2014",722,Technology,South
+"April, 2017",723,Technology,Central
+"January, 2017",748,Technology,East
+"January, 2014",762,Office Supplies,Central
+"January, 2017",765,Office Supplies,South
+"February, 2016",768,Office Supplies,Central
+"February, 2014",768,Furniture,West
+"February, 2017",779,Furniture,South
+"January, 2016",781,Furniture,South
+"May, 2015",787,Office Supplies,South
+"March, 2015",795,Office Supplies,Central
+"May, 2014",798,Office Supplies,Central
+"March, 2014",802,Office Supplies,Central
+"June, 2014",813,Office Supplies,South
+"August, 2016",822,Technology,South
+"July, 2015",852,Furniture,South
+"June, 2016",865,Office Supplies,South
+"January, 2016",866,Office Supplies,South
+"August, 2014",871,Technology,Central
+"February, 2015",874,Office Supplies,Central
+"May, 2015",891,Technology,South
+"January, 2018",906,Office Supplies,West
+"May, 2014",924,Furniture,South
+"October, 2015",929,Office Supplies,East
+"June, 2015",937,Technology,East
+"April, 2016",952,Technology,South
+"April, 2016",964,Furniture,South
+"August, 2014",964,Furniture,Central
+"July, 2015",982,Office Supplies,South
+"March, 2014",993,Office Supplies,East
+"February, 2016",1004,Furniture,Central
+"March, 2015",1010,Furniture,East
+"August, 2015",1044,Office Supplies,South
+"April, 2016",1050,Office Supplies,South
+"February, 2016",1056,Furniture,West
+"December, 2015",1065,Technology,South
+"April, 2014",1068,Office Supplies,East
+"February, 2015",1072,Office Supplies,West
+"July, 2015",1072,Office Supplies,West
+"August, 2016",1084,Furniture,South
+"May, 2014",1086,Office Supplies,West
+"January, 2016",1108,Furniture,East
+"July, 2014",1108,Technology,Central
+"August, 2016",1110,Technology,East
+"July, 2015",1118,Office Supplies,Central
+"October, 2017",1121,Technology,South
+"February, 2015",1130,Technology,East
+"April, 2015",1143,Furniture,East
+"May, 2015",1156,Furniture,South
+"January, 2015",1160,Technology,Central
+"January, 2016",1170,Technology,East
+"August, 2014",1187,Office Supplies,Central
+"July, 2016",1187,Office Supplies,South
+"June, 2015",1211,Office Supplies,Central
+"October, 2016",1238,Office Supplies,South
+"February, 2016",1241,Office Supplies,West
+"April, 2017",1242,Technology,East
+"February, 2014",1256,Furniture,South
+"July, 2014",1263,Office Supplies,East
+"February, 2016",1269,Office Supplies,East
+"May, 2016",1272,Furniture,South
+"July, 2014",1280,Technology,South
+"January, 2015",1304,Technology,West
+"February, 2017",1308,Furniture,Central
+"September, 2017",1309,Furniture,South
+"October, 2014",1316,Office Supplies,South
+"April, 2014",1318,Technology,Central
+"May, 2014",1327,Technology,South
+"July, 2016",1330,Technology,South
+"February, 2014",1335,Office Supplies,Overall
+"April, 2016",1340,Technology,West
+"July, 2015",1354,Technology,West
+"June, 2015",1358,Technology,Central
+"February, 2017",1365,Office Supplies,South
+"February, 2016",1365,Furniture,East
+"April, 2014",1403,Furniture,South
+"June, 2014",1412,Technology,Central
+"March, 2015",1413,Technology,Central
+"May, 2017",1419,Technology,Central
+"December, 2014",1435,Office Supplies,South
+"March, 2014",1436,Furniture,Central
+"October, 2014",1441,Technology,South
+"January, 2016",1442,Furniture,West
+"March, 2016",1484,Technology,South
+"October, 2016",1493,Office Supplies,East
+"February, 2017",1507,Office Supplies,East
+"February, 2016",1510,Technology,Central
+"February, 2016",1511,Technology,West
+"May, 2015",1514,Furniture,Central
+"April, 2015",1514,Technology,South
+"January, 2016",1523,Office Supplies,West
+"March, 2017",1549,Furniture,East
+"May, 2015",1554,Office Supplies,East
+"April, 2017",1573,Office Supplies,Central
+"August, 2014",1593,Technology,South
+"February, 2016",1594,Furniture,South
+"March, 2015",1608,Technology,East
+"February, 2014",1609,Technology,Overall
+"April, 2014",1609,Furniture,East
+"November, 2014",1616,Furniture,South
+"January, 2017",1619,Furniture,East
+"March, 2014",1622,Office Supplies,South
+"May, 2016",1633,Technology,South
+"January, 2016",1635,Technology,South
+"October, 2015",1638,Furniture,South
+"February, 2015",1644,Furniture,East
+"February, 2015",1644,Technology,Central
+"July, 2014",1654,Technology,East
+"July, 2016",1660,Furniture,East
+"March, 2017",1672,Furniture,West
+"December, 2015",1674,Furniture,South
+"August, 2017",1681,Furniture,South
+"October, 2014",1683,Office Supplies,Central
+"June, 2015",1683,Furniture,East
+"January, 2014",1687,Office Supplies,West
+"April, 2017",1727,Furniture,East
+"April, 2014",1737,Office Supplies,Central
+"June, 2014",1738,Furniture,South
+"October, 2016",1741,Technology,South
+"August, 2014",1746,Office Supplies,East
+"June, 2017",1755,Technology,Central
+"March, 2015",1755,Furniture,South
+"August, 2016",1763,Furniture,East
+"January, 2018",1768,Furniture,South
+"February, 2017",1774,Furniture,East
+"June, 2015",1777,Office Supplies,West
+"August, 2017",1810,Office Supplies,Central
+"April, 2014",1820,Office Supplies,West
+"February, 2017",1821,Office Supplies,Central
+"March, 2017",1829,Office Supplies,South
+"August, 2016",1867,Office Supplies,South
+"January, 2018",1887,Office Supplies,Overall
+"July, 2016",1890,Furniture,Central
+"April, 2015",1900,Furniture,Central
+"February, 2015",1920,Technology,West
+"November, 2016",1921,Office Supplies,South
+"August, 2015",1934,Office Supplies,West
+"May, 2014",1949,Furniture,Central
+"January, 2014",1955,Office Supplies,South
+"January, 2015",1957,Furniture,Central
+"May, 2017",1990,Technology,South
+"August, 2014",2000,Furniture,East
+"May, 2016",2000,Furniture,East
+"January, 2017",2001,Furniture,West
+"November, 2014",2002,Technology,Central
+"June, 2017",2009,Furniture,South
+"October, 2015",2023,Technology,South
+"August, 2015",2037,Furniture,East
+"August, 2016",2061,Furniture,Central
+"May, 2017",2079,Office Supplies,South
+"May, 2014",2085,Office Supplies,East
+"May, 2014",2095,Furniture,West
+"July, 2015",2096,Office Supplies,East
+"July, 2017",2101,Furniture,South
+"March, 2014",2108,Technology,West
+"March, 2016",2111,Office Supplies,South
+"October, 2015",2127,Furniture,East
+"February, 2017",2130,Technology,East
+"June, 2015",2146,Technology,South
+"June, 2016",2151,Furniture,Central
+"May, 2017",2159,Technology,East
+"October, 2016",2161,Furniture,Central
+"August, 2016",2171,Office Supplies,West
+"June, 2014",2180,Technology,South
+"April, 2017",2184,Furniture,West
+"October, 2015",2186,Office Supplies,South
+"July, 2014",2186,Furniture,Central
+"March, 2015",2192,Office Supplies,West
+"March, 2017",2193,Office Supplies,East
+"May, 2017",2193,Office Supplies,East
+"April, 2016",2195,Office Supplies,West
+"May, 2014",2203,Technology,West
+"September, 2017",2232,Technology,South
+"April, 2015",2252,Furniture,West
+"December, 2014",2269,Office Supplies,East
+"March, 2016",2291,Technology,Central
+"June, 2015",2291,Technology,West
+"August, 2015",2291,Office Supplies,Central
+"April, 2016",2294,Technology,Central
+"September, 2015",2294,Technology,South
+"April, 2015",2309,Office Supplies,East
+"April, 2017",2319,Office Supplies,West
+"January, 2015",2336,Office Supplies,West
+"August, 2014",2347,Office Supplies,South
+"July, 2016",2356,Technology,Central
+"February, 2015",2370,Furniture,Overall
+"May, 2015",2410,Furniture,West
+"June, 2015",2439,Furniture,South
+"June, 2014",2444,Furniture,East
+"May, 2014",2451,Furniture,East
+"February, 2014",2463,Furniture,Overall
+"November, 2015",2468,Furniture,South
+"July, 2015",2480,Furniture,Central
+"June, 2016",2520,Office Supplies,Central
+"September, 2015",2534,Technology,West
+"November, 2014",2546,Technology,South
+"July, 2016",2553,Office Supplies,West
+"June, 2017",2554,Office Supplies,South
+"October, 2014",2562,Furniture,South
+"October, 2015",2569,Technology,Central
+"November, 2017",2583,Technology,Central
+"January, 2016",2587,Office Supplies,East
+"July, 2014",2615,Furniture,East
+"March, 2016",2623,Furniture,West
+"April, 2017",2664,Furniture,South
+"August, 2014",2664,Furniture,South
+"December, 2014",2670,Office Supplies,Central
+"September, 2014",2679,Office Supplies,South
+"December, 2014",2708,Technology,Central
+"August, 2015",2708,Technology,East
+"June, 2016",2711,Furniture,South
+"September, 2016",2714,Office Supplies,South
+"June, 2016",2716,Technology,Central
+"June, 2015",2718,Furniture,West
+"November, 2014",2725,Office Supplies,South
+"August, 2017",2729,Technology,East
+"August, 2015",2734,Furniture,West
+"March, 2014",2741,Furniture,South
+"October, 2014",2741,Technology,West
+"May, 2015",2748,Office Supplies,West
+"May, 2016",2763,Technology,Central
+"June, 2016",2766,Furniture,East
+"April, 2015",2770,Office Supplies,Central
+"May, 2015",2778,Furniture,East
+"July, 2016",2812,Office Supplies,Central
+"May, 2014",2815,Technology,East
+"February, 2017",2862,Office Supplies,West
+"January, 2018",2864,Furniture,Overall
+"June, 2016",2865,Office Supplies,West
+"May, 2016",2898,Office Supplies,South
+"May, 2015",2932,Technology,Central
+"February, 2017",2949,Technology,Central
+"January, 2017",2951,Furniture,Central
+"September, 2016",2954,Technology,East
+"October, 2014",2959,Office Supplies,West
+"June, 2014",2963,Office Supplies,East
+"June, 2017",2965,Office Supplies,West
+"July, 2017",2982,Technology,Central
+"January, 2014",2988,Technology,South
+"July, 2014",2991,Technology,West
+"August, 2015",3009,Furniture,Central
+"April, 2015",3031,Furniture,South
+"April, 2014",3032,Technology,South
+"June, 2017",3054,Office Supplies,East
+"April, 2016",3055,Furniture,Central
+"April, 2017",3060,Furniture,Central
+"February, 2015",3064,Office Supplies,East
+"August, 2016",3073,Office Supplies,Central
+"March, 2017",3102,Technology,East
+"August, 2017",3103,Office Supplies,South
+"July, 2017",3109,Furniture,Central
+"March, 2017",3110,Office Supplies,Central
+"May, 2017",3113,Furniture,West
+"February, 2017",3128,Furniture,West
+"December, 2016",3129,Technology,South
+"January, 2014",3143,Technology,Overall
+"September, 2014",3169,Office Supplies,West
+"December, 2015",3174,Office Supplies,South
+"January, 2017",3181,Office Supplies,East
+"December, 2016",3198,Furniture,South
+"May, 2016",3205,Office Supplies,Central
+"April, 2015",3209,Office Supplies,West
+"August, 2016",3213,Technology,Central
+"September, 2014",3275,Technology,West
+"August, 2015",3300,Technology,West
+"May, 2017",3324,Furniture,East
+"August, 2017",3331,Furniture,West
+"April, 2015",3340,Technology,West
+"June, 2016",3341,Technology,East
+"October, 2017",3351,Furniture,Central
+"January, 2016",3358,Furniture,Central
+"July, 2016",3359,Technology,East
+"April, 2016",3407,Office Supplies,Central
+"April, 2015",3407,Technology,Central
+"October, 2015",3412,Furniture,Central
+"December, 2015",3426,Office Supplies,Central
+"June, 2014",3426,Furniture,West
+"March, 2016",3473,Furniture,East
+"July, 2014",3505,Office Supplies,Central
+"April, 2014",3506,Furniture,West
+"July, 2017",3527,Office Supplies,East
+"March, 2014",3576,Furniture,East
+"November, 2017",3587,Furniture,East
+"August, 2016",3626,Technology,West
+"October, 2017",3637,Office Supplies,South
+"December, 2016",3656,Technology,Central
+"April, 2014",3671,Furniture,Central
+"September, 2015",3677,Furniture,Central
+"June, 2015",3689,Furniture,Central
+"July, 2017",3699,Furniture,East
+"April, 2016",3705,Furniture,East
+"March, 2014",3715,Furniture,West
+"June, 2014",3718,Technology,West
+"January, 2016",3725,Technology,West
+"January, 2015",3734,Furniture,West
+"January, 2017",3756,Technology,South
+"August, 2014",3777,Furniture,West
+"September, 2014",3778,Furniture,West
+"October, 2015",3802,Technology,West
+"October, 2017",3823,Office Supplies,East
+"March, 2015",3830,Furniture,Central
+"September, 2016",3838,Office Supplies,West
+"February, 2017",3853,Technology,West
+"June, 2015",3858,Office Supplies,South
+"June, 2014",3889,Office Supplies,West
+"October, 2017",3901,Technology,Central
+"May, 2017",3920,Furniture,Central
+"March, 2014",3947,Office Supplies,West
+"November, 2015",3953,Office Supplies,South
+"October, 2015",3954,Office Supplies,West
+"November, 2017",3955,Furniture,Central
+"May, 2016",3969,Technology,West
+"October, 2014",3978,Furniture,East
+"March, 2015",3981,Office Supplies,East
+"January, 2015",3993,Office Supplies,East
+"September, 2016",4007,Technology,South
+"July, 2015",4007,Technology,Central
+"March, 2016",4030,Office Supplies,East
+"August, 2017",4034,Technology,Central
+"April, 2016",4084,Office Supplies,East
+"June, 2017",4098,Furniture,East
+"May, 2016",4105,Furniture,West
+"May, 2016",4118,Office Supplies,East
+"August, 2016",4134,Office Supplies,East
+"June, 2014",4158,Technology,East
+"May, 2017",4170,Office Supplies,West
+"December, 2014",4174,Furniture,East
+"March, 2016",4192,Furniture,Central
+"July, 2017",4205,Office Supplies,Central
+"November, 2016",4210,Office Supplies,Central
+"July, 2017",4214,Office Supplies,West
+"August, 2015",4249,Office Supplies,East
+"November, 2016",4272,Technology,Central
+"September, 2014",4315,Technology,South
+"July, 2016",4352,Office Supplies,East
+"May, 2016",4363,Furniture,Central
+"January, 2014",4379,Furniture,South
+"September, 2016",4384,Office Supplies,Central
+"October, 2016",4396,Furniture,West
+"June, 2016",4407,Technology,South
+"October, 2016",4409,Office Supplies,Central
+"January, 2015",4423,Technology,East
+"November, 2015",4483,Technology,Central
+"January, 2015",4490,Furniture,South
+"October, 2015",4508,Technology,East
+"January, 2014",4513,Office Supplies,Overall
+"December, 2015",4521,Office Supplies,East
+"May, 2014",4521,Office Supplies,South
+"January, 2017",4546,Technology,Central
+"September, 2015",4553,Furniture,South
+"September, 2016",4581,Furniture,South
+"July, 2017",4584,Furniture,West
+"November, 2015",4585,Technology,West
+"June, 2014",4611,Office Supplies,Central
+"October, 2017",4615,Office Supplies,Central
+"November, 2015",4615,Furniture,Central
+"July, 2014",4616,Furniture,West
+"June, 2014",4640,Furniture,Central
+"July, 2015",4656,Technology,East
+"June, 2017",4688,Technology,West
+"June, 2017",4701,Technology,South
+"October, 2017",4718,Technology,West
+"April, 2017",4720,Office Supplies,South
+"February, 2015",4724,Technology,Overall
+"May, 2015",4758,Technology,West
+"August, 2015",4764,Technology,South
+"October, 2017",4775,Furniture,West
+"October, 2015",4777,Furniture,West
+"September, 2015",4781,Office Supplies,South
+"February, 2016",4848,Office Supplies,South
+"August, 2017",4919,Technology,South
+"March, 2017",4942,Technology,Central
+"January, 2015",4943,Furniture,East
+"July, 2016",4944,Furniture,South
+"May, 2017",4959,Office Supplies,Central
+"December, 2017",4972,Technology,South
+"July, 2016",4977,Furniture,West
+"September, 2014",4978,Office Supplies,East
+"April, 2017",5018,Technology,South
+"February, 2016",5019,Furniture,Overall
+"March, 2016",5042,Office Supplies,Central
+"September, 2016",5045,Technology,Central
+"June, 2017",5049,Office Supplies,Central
+"April, 2014",5063,Technology,West
+"November, 2017",5068,Furniture,South
+"June, 2017",5092,Furniture,Central
+"September, 2017",5099,Furniture,Central
+"January, 2017",5135,Office Supplies,West
+"January, 2017",5137,Technology,West
+"June, 2017",5145,Technology,East
+"November, 2014",5171,Furniture,Central
+"March, 2017",5185,Furniture,Central
+"December, 2015",5259,Furniture,Central
+"July, 2015",5268,Office Supplies,Overall
+"October, 2014",5277,Office Supplies,East
+"December, 2017",5299,Office Supplies,South
+"November, 2016",5313,Technology,South
+"November, 2016",5331,Office Supplies,East
+"October, 2016",5334,Technology,West
+"September, 2017",5407,Office Supplies,Central
+"December, 2014",5414,Furniture,Central
+"October, 2016",5416,Furniture,East
+"November, 2017",5419,Office Supplies,Central
+"May, 2015",5440,Technology,East
+"December, 2014",5449,Technology,West
+"January, 2016",5461,Office Supplies,Overall
+"July, 2015",5537,Furniture,West
+"September, 2017",5556,Technology,West
+"December, 2015",5579,Office Supplies,West
+"February, 2015",5585,Office Supplies,Overall
+"August, 2014",5612,Office Supplies,West
+"November, 2016",5613,Furniture,South
+"November, 2015",5618,Office Supplies,Central
+"January, 2014",5619,Furniture,Overall
+"May, 2015",5621,Office Supplies,Central
+"November, 2016",5636,Technology,West
+"June, 2015",5744,Office Supplies,East
+"November, 2015",5799,Office Supplies,West
+"November, 2015",5821,Office Supplies,East
+"July, 2015",5891,Furniture,East
+"June, 2016",5968,Office Supplies,East
+"April, 2014",5972,Office Supplies,South
+"December, 2017",6091,Furniture,South
+"November, 2015",6103,Furniture,West
+"June, 2017",6111,Furniture,West
+"November, 2014",6126,Office Supplies,Central
+"July, 2016",6175,Technology,West
+"November, 2014",6185,Furniture,West
+"September, 2014",6190,Furniture,Central
+"October, 2014",6221,Furniture,West
+"April, 2017",6296,Office Supplies,East
+"October, 2017",6317,Furniture,East
+"March, 2016",6398,Office Supplies,West
+"November, 2017",6499,Office Supplies,South
+"November, 2016",6517,Technology,East
+"March, 2015",6560,Furniture,West
+"May, 2014",6571,Technology,Overall
+"December, 2017",6573,Technology,Central
+"January, 2017",6633,Furniture,Overall
+"January, 2016",6689,Furniture,Overall
+"June, 2015",6732,Technology,Overall
+"October, 2017",6752,Furniture,South
+"April, 2016",6764,Furniture,West
+"September, 2016",6786,Furniture,East
+"July, 2017",6802,Technology,East
+"October, 2014",6806,Technology,Central
+"September, 2016",6838,Furniture,West
+"November, 2016",6844,Furniture,East
+"October, 2016",6849,Technology,East
+"December, 2014",6874,Furniture,South
+"August, 2014",6893,Technology,West
+"October, 2016",6912,Office Supplies,West
+"January, 2016",6981,Technology,Overall
+"September, 2014",6987,Technology,East
+"February, 2017",6990,Furniture,Overall
+"July, 2014",7033,Technology,Overall
+"January, 2015",7086,Office Supplies,Overall
+"March, 2015",7092,Technology,West
+"August, 2016",7107,Furniture,West
+"December, 2015",7285,Technology,West
+"May, 2017",7301,Furniture,South
+"December, 2017",7317,Technology,East
+"September, 2015",7336,Office Supplies,West
+"August, 2017",7360,Furniture,East
+"March, 2014",7363,Office Supplies,Overall
+"September, 2017",7372,Office Supplies,South
+"January, 2015",7385,Technology,Overall
+"September, 2017",7400,Technology,Central
+"March, 2017",7401,Office Supplies,West
+"December, 2014",7407,Office Supplies,West
+"December, 2017",7416,Furniture,Central
+"May, 2014",7419,Furniture,Overall
+"December, 2016",7512,Office Supplies,South
+"September, 2015",7515,Technology,Central
+"February, 2017",7556,Office Supplies,Overall
+"June, 2016",7569,Furniture,West
+"December, 2015",7586,Furniture,East
+"September, 2015",7648,Office Supplies,East
+"November, 2014",7650,Office Supplies,West
+"September, 2016",7677,Furniture,Central
+"September, 2015",7703,Furniture,West
+"October, 2015",7718,Office Supplies,Overall
+"November, 2017",7733,Technology,West
+"August, 2015",7826,Furniture,Overall
+"December, 2017",7832,Office Supplies,Central
+"May, 2015",7857,Furniture,Overall
+"November, 2016",7924,Furniture,Central
+"March, 2016",7971,Technology,East
+"December, 2017",7986,Technology,West
+"February, 2016",8126,Office Supplies,Overall
+"May, 2017",8149,Technology,West
+"April, 2015",8326,Furniture,Overall
+"November, 2017",8381,Office Supplies,West
+"December, 2016",8382,Technology,West
+"September, 2017",8423,Office Supplies,East
+"May, 2014",8489,Office Supplies,Overall
+"April, 2017",8496,Technology,West
+"March, 2016",8538,Technology,West
+"April, 2015",8545,Office Supplies,Overall
+"March, 2015",8584,Office Supplies,South
+"September, 2015",8610,Technology,East
+"November, 2016",8623,Office Supplies,West
+"August, 2017",8627,Technology,West
+"April, 2015",8644,Technology,Overall
+"August, 2016",8772,Technology,Overall
+"December, 2017",8838,Office Supplies,West
+"December, 2017",8957,Office Supplies,East
+"February, 2017",8961,Technology,Overall
+"November, 2014",8969,Technology,West
+"December, 2016",9096,Furniture,East
+"March, 2017",9128,Furniture,Overall
+"September, 2014",9329,Furniture,East
+"August, 2014",9405,Furniture,Overall
+"December, 2016",9436,Office Supplies,West
+"September, 2016",9469,Technology,West
+"August, 2015",9518,Office Supplies,Overall
+"April, 2014",9602,Technology,Overall
+"April, 2017",9635,Furniture,Overall
+"December, 2014",9862,Technology,East
+"July, 2014",9866,Furniture,Overall
+"November, 2014",9869,Office Supplies,East
+"August, 2014",9949,Technology,Overall
+"October, 2017",10045,Office Supplies,West
+"April, 2014",10189,Furniture,Overall
+"December, 2016",10289,Furniture,Central
+"July, 2015",10371,Technology,Overall
+"June, 2016",10394,Technology,West
+"June, 2015",10528,Furniture,Overall
+"March, 2015",10562,Technology,Overall
+"February, 2016",10568,Technology,South
+"April, 2014",10597,Office Supplies,Overall
+"August, 2017",10611,Office Supplies,East
+"September, 2017",10644,Office Supplies,West
+"May, 2015",10711,Office Supplies,Overall
+"April, 2016",10736,Office Supplies,Overall
+"July, 2017",10750,Technology,West
+"August, 2015",10772,Technology,Overall
+"May, 2016",10773,Office Supplies,Overall
+"July, 2014",10863,Office Supplies,West
+"August, 2014",10891,Office Supplies,Overall
+"July, 2016",10903,Office Supplies,Overall
+"March, 2016",10931,Furniture,Overall
+"December, 2014",11136,Furniture,West
+"April, 2016",11218,Technology,East
+"October, 2014",11235,Office Supplies,Overall
+"August, 2016",11245,Office Supplies,Overall
+"November, 2017",11371,Office Supplies,East
+"October, 2014",11450,Technology,Overall
+"June, 2014",11468,Technology,Overall
+"March, 2014",11468,Furniture,Overall
+"November, 2014",11567,Furniture,East
+"December, 2016",11695,Office Supplies,Central
+"May, 2016",11739,Furniture,Overall
+"December, 2017",11837,Furniture,West
+"September, 2017",11946,Furniture,East
+"October, 2015",11954,Furniture,Overall
+"August, 2016",12015,Furniture,Overall
+"December, 2015",12019,Technology,Central
+"December, 2016",12077,Office Supplies,East
+"December, 2016",12143,Technology,East
+"September, 2016",12167,Office Supplies,East
+"December, 2015",12200,Furniture,West
+"June, 2016",12218,Office Supplies,Overall
+"June, 2014",12247,Furniture,Overall
+"June, 2014",12276,Office Supplies,Overall
+"September, 2015",12308,Furniture,East
+"January, 2017",12396,Office Supplies,Central
+"November, 2016",12460,Furniture,West
+"September, 2014",12489,Office Supplies,Central
+"October, 2016",12511,Furniture,Overall
+"July, 2017",12574,Office Supplies,Overall
+"June, 2015",12590,Office Supplies,Overall
+"September, 2017",12661,Technology,East
+"November, 2015",12760,Technology,East
+"October, 2015",12903,Technology,Overall
+"October, 2014",13056,Furniture,Overall
+"August, 2017",13070,Furniture,Overall
+"March, 2015",13156,Furniture,Overall
+"July, 2016",13221,Technology,Overall
+"September, 2017",13380,Furniture,West
+"May, 2017",13400,Office Supplies,Overall
+"July, 2016",13471,Furniture,Overall
+"July, 2017",13493,Furniture,Overall
+"June, 2017",13623,Office Supplies,Overall
+"May, 2017",13717,Technology,Overall
+"December, 2014",13781,Office Supplies,Overall
+"February, 2016",13808,Technology,Overall
+"December, 2017",13935,Furniture,East
+"November, 2015",13958,Furniture,East
+"May, 2015",14020,Technology,Overall
+"October, 2016",14052,Office Supplies,Overall
+"January, 2017",14186,Technology,Overall
+"December, 2016",14401,Furniture,West
+"April, 2016",14487,Furniture,Overall
+"March, 2017",14532,Office Supplies,Overall
+"July, 2015",14761,Furniture,Overall
+"December, 2015",14813,Technology,East
+"August, 2017",14857,Office Supplies,West
+"April, 2017",14908,Office Supplies,Overall
+"November, 2017",15001,Technology,South
+"November, 2017",15103,Furniture,West
+"January, 2015",15123,Furniture,Overall
+"June, 2016",15196,Furniture,Overall
+"April, 2017",15479,Technology,Overall
+"March, 2015",15552,Office Supplies,Overall
+"September, 2014",15576,Technology,Central
+"May, 2016",15644,Technology,East
+"November, 2014",15757,Technology,East
+"April, 2016",15805,Technology,Overall
+"July, 2014",16092,Office Supplies,Overall
+"June, 2017",16289,Technology,Overall
+"December, 2015",16700,Office Supplies,Overall
+"June, 2017",17309,Furniture,Overall
+"March, 2016",17581,Office Supplies,Overall
+"May, 2017",17658,Furniture,Overall
+"December, 2014",18468,Technology,Overall
+"September, 2014",19658,Furniture,Overall
+"November, 2016",20086,Office Supplies,Overall
+"March, 2016",20284,Technology,Overall
+"August, 2017",20309,Technology,Overall
+"October, 2016",20370,Technology,Central
+"September, 2015",20422,Office Supplies,Overall
+"November, 2017",20501,Technology,East
+"March, 2017",20682,Technology,West
+"June, 2016",20859,Technology,Overall
+"September, 2015",20953,Technology,Overall
+"July, 2017",21117,Technology,Overall
+"November, 2015",21190,Office Supplies,Overall
+"October, 2017",21195,Furniture,Overall
+"September, 2016",21475,Technology,Overall
+"January, 2017",21477,Office Supplies,Overall
+"November, 2016",21738,Technology,Overall
+"October, 2017",22120,Office Supplies,Overall
+"November, 2015",22300,Technology,Overall
+"October, 2017",22497,Technology,East
+"September, 2016",23104,Office Supplies,Overall
+"September, 2014",23315,Office Supplies,Overall
+"May, 2016",24009,Technology,Overall
+"November, 2014",24539,Furniture,Overall
+"September, 2016",25882,Furniture,Overall
+"November, 2014",26369,Office Supplies,Overall
+"December, 2015",26719,Furniture,Overall
+"December, 2017",26848,Technology,Overall
+"November, 2015",27144,Furniture,Overall
+"December, 2016",27310,Technology,Overall
+"December, 2014",27599,Furniture,Overall
+"November, 2017",27713,Furniture,Overall
+"September, 2017",27848,Technology,Overall
+"September, 2015",28241,Furniture,Overall
+"March, 2014",28547,Technology,South
+"March, 2017",29232,Technology,Overall
+"November, 2014",29274,Technology,Overall
+"September, 2014",30153,Technology,Overall
+"August, 2017",30381,Office Supplies,Overall
+"December, 2017",30927,Office Supplies,Overall
+"November, 2017",31671,Office Supplies,Overall
+"September, 2017",31735,Furniture,Overall
+"September, 2017",31845,Office Supplies,Overall
+"March, 2014",31877,Technology,Overall
+"October, 2017",32237,Technology,Overall
+"November, 2016",32841,Furniture,Overall
+"October, 2016",34295,Technology,Overall
+"December, 2015",35183,Technology,Overall
+"December, 2016",36983,Furniture,Overall
+"December, 2017",39278,Furniture,Overall
+"December, 2016",40721,Office Supplies,Overall
+"November, 2017",45817,Technology,Overall
+"February, 2018",8545,Technology,East
+"March, 2018",8545,Technology,East
+"April, 2018",8545,Technology,East
+"May, 2018",8545,Technology,East
+"June, 2018",8545,Technology,East
+"July, 2018",8545,Technology,East
+"August, 2018",8545,Technology,East
+"September, 2018",8545,Technology,East
+"October, 2018",8545,Technology,East
+"November, 2018",8545,Technology,East
+"December, 2018",8545,Technology,East
+"February, 2018",5788,Technology,West
+"March, 2018",5788,Technology,West
+"April, 2018",5788,Technology,West
+"May, 2018",5788,Technology,West
+"June, 2018",5788,Technology,West
+"July, 2018",5788,Technology,West
+"August, 2018",5788,Technology,West
+"September, 2018",5788,Technology,West
+"October, 2018",5788,Technology,West
+"November, 2018",5788,Technology,West
+"December, 2018",5788,Technology,West
+"February, 2018",5334,Technology,Central
+"March, 2018",5334,Technology,Central
+"April, 2018",5334,Technology,Central
+"May, 2018",5334,Technology,Central
+"June, 2018",5334,Technology,Central
+"July, 2018",5334,Technology,Central
+"August, 2018",5334,Technology,Central
+"September, 2018",5334,Technology,Central
+"October, 2018",5334,Technology,Central
+"November, 2018",5334,Technology,Central
+"December, 2018",5334,Technology,Central
+"February, 2018",1993,Technology,South
+"March, 2018",1993,Technology,South
+"April, 2018",1993,Technology,South
+"May, 2018",1993,Technology,South
+"June, 2018",1993,Technology,South
+"July, 2018",1993,Technology,South
+"August, 2018",1993,Technology,South
+"September, 2018",1993,Technology,South
+"October, 2018",1993,Technology,South
+"November, 2018",1993,Technology,South
+"December, 2018",1993,Technology,South
+"February, 2018",21660,Technology,Overall
+"March, 2018",21660,Technology,Overall
+"April, 2018",21660,Technology,Overall
+"May, 2018",21660,Technology,Overall
+"June, 2018",21660,Technology,Overall
+"July, 2018",21660,Technology,Overall
+"August, 2018",21660,Technology,Overall
+"September, 2018",21660,Technology,Overall
+"October, 2018",21660,Technology,Overall
+"November, 2018",21660,Technology,Overall
+"December, 2018",21660,Technology,Overall
+"February, 2018",8545,Furniture,East
+"March, 2018",8545,Furniture,East
+"April, 2018",8545,Furniture,East
+"May, 2018",8545,Furniture,East
+"June, 2018",8545,Furniture,East
+"July, 2018",8545,Furniture,East
+"August, 2018",8545,Furniture,East
+"September, 2018",8545,Furniture,East
+"October, 2018",8545,Furniture,East
+"November, 2018",8545,Furniture,East
+"December, 2018",8545,Furniture,East
+"February, 2018",5788,Furniture,West
+"March, 2018",5788,Furniture,West
+"April, 2018",5788,Furniture,West
+"May, 2018",5788,Furniture,West
+"June, 2018",5788,Furniture,West
+"July, 2018",5788,Furniture,West
+"August, 2018",5788,Furniture,West
+"September, 2018",5788,Furniture,West
+"October, 2018",5788,Furniture,West
+"November, 2018",5788,Furniture,West
+"December, 2018",5788,Furniture,West
+"February, 2018",5334,Furniture,Central
+"March, 2018",5334,Furniture,Central
+"April, 2018",5334,Furniture,Central
+"May, 2018",5334,Furniture,Central
+"June, 2018",5334,Furniture,Central
+"July, 2018",5334,Furniture,Central
+"August, 2018",5334,Furniture,Central
+"September, 2018",5334,Furniture,Central
+"October, 2018",5334,Furniture,Central
+"November, 2018",5334,Furniture,Central
+"December, 2018",5334,Furniture,Central
+"February, 2018",1993,Furniture,South
+"March, 2018",1993,Furniture,South
+"April, 2018",1993,Furniture,South
+"May, 2018",1993,Furniture,South
+"June, 2018",1993,Furniture,South
+"July, 2018",1993,Furniture,South
+"August, 2018",1993,Furniture,South
+"September, 2018",1993,Furniture,South
+"October, 2018",1993,Furniture,South
+"November, 2018",1993,Furniture,South
+"December, 2018",1993,Furniture,South
+"February, 2018",21660,Furniture,Overall
+"March, 2018",21660,Furniture,Overall
+"April, 2018",21660,Furniture,Overall
+"May, 2018",21660,Furniture,Overall
+"June, 2018",21660,Furniture,Overall
+"July, 2018",21660,Furniture,Overall
+"August, 2018",21660,Furniture,Overall
+"September, 2018",21660,Furniture,Overall
+"October, 2018",21660,Furniture,Overall
+"November, 2018",21660,Furniture,Overall
+"December, 2018",21660,Furniture,Overall
+"February, 2018",8545,Office Supplies,East
+"March, 2018",8545,Office Supplies,East
+"April, 2018",8545,Office Supplies,East
+"May, 2018",8545,Office Supplies,East
+"June, 2018",8545,Office Supplies,East
+"July, 2018",8545,Office Supplies,East
+"August, 2018",8545,Office Supplies,East
+"September, 2018",8545,Office Supplies,East
+"October, 2018",8545,Office Supplies,East
+"November, 2018",8545,Office Supplies,East
+"December, 2018",8545,Office Supplies,East
+"February, 2018",5788,Office Supplies,West
+"March, 2018",5788,Office Supplies,West
+"April, 2018",5788,Office Supplies,West
+"May, 2018",5788,Office Supplies,West
+"June, 2018",5788,Office Supplies,West
+"July, 2018",5788,Office Supplies,West
+"August, 2018",5788,Office Supplies,West
+"September, 2018",5788,Office Supplies,West
+"October, 2018",5788,Office Supplies,West
+"November, 2018",5788,Office Supplies,West
+"December, 2018",5788,Office Supplies,West
+"February, 2018",5334,Office Supplies,Central
+"March, 2018",5334,Office Supplies,Central
+"April, 2018",5334,Office Supplies,Central
+"May, 2018",5334,Office Supplies,Central
+"June, 2018",5334,Office Supplies,Central
+"July, 2018",5334,Office Supplies,Central
+"August, 2018",5334,Office Supplies,Central
+"September, 2018",5334,Office Supplies,Central
+"October, 2018",5334,Office Supplies,Central
+"November, 2018",5334,Office Supplies,Central
+"December, 2018",5334,Office Supplies,Central
+"February, 2018",1993,Office Supplies,South
+"March, 2018",1993,Office Supplies,South
+"April, 2018",1993,Office Supplies,South
+"May, 2018",1993,Office Supplies,South
+"June, 2018",1993,Office Supplies,South
+"July, 2018",1993,Office Supplies,South
+"August, 2018",1993,Office Supplies,South
+"September, 2018",1993,Office Supplies,South
+"October, 2018",1993,Office Supplies,South
+"November, 2018",1993,Office Supplies,South
+"December, 2018",1993,Office Supplies,South
+"February, 2018",21660,Office Supplies,Overall
+"March, 2018",21660,Office Supplies,Overall
+"April, 2018",21660,Office Supplies,Overall
+"May, 2018",21660,Office Supplies,Overall
+"June, 2018",21660,Office Supplies,Overall
+"July, 2018",21660,Office Supplies,Overall
+"August, 2018",21660,Office Supplies,Overall
+"September, 2018",21660,Office Supplies,Overall
+"October, 2018",21660,Office Supplies,Overall
+"November, 2018",21660,Office Supplies,Overall
+"December, 2018",21660,Office Supplies,Overall
